@@ -3,7 +3,7 @@
 
 ## Index
 1. [나를 소개해요](#1-나를-소개해요)
-2. [ToyCode는 뭐지?](#2-ToyCode는-뭐지)
+2. [토이코드는 뭐지?](#2-토이코드는-뭐지)
 3. [뭘 할 수 있죠?](#3-뭘-할-수-있죠)
 4. [포트폴리오](#4-포트폴리오)
 5. [마치며](#5-마치며) 
@@ -20,7 +20,7 @@
  - github : [https://github.com/HanHyeonseok](https://github.com/HanHyeonseok)
  - portfolio : 준비중
 
- ## 2. ToyCode는 뭐지?
+## 2. 토이코드는 뭐지?
 
 먼저, "ToyCode"는 저의 개인블로그의 야심찬 닉네임입니다.  
 
