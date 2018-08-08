@@ -20,7 +20,7 @@
  - github : [https://github.com/HanHyeonseok](https://github.com/HanHyeonseok)
  - portfolio : 준비중
 
-## 2. ToyCode는 뭐지?
+ ## 2. ToyCode는 뭐지?
 
 먼저, "ToyCode"는 저의 개인블로그의 야심찬 닉네임입니다.  
 
@@ -44,4 +44,6 @@ Major Languages|ㅤ|ㅤ
 ![spring](https://user-images.githubusercontent.com/38531104/43717758-7b93d416-99c3-11e8-93dd-6f3034f585aa.png)|![nodejs2](https://user-images.githubusercontent.com/38531104/43717757-7b5f38a0-99c3-11e8-8b12-82acd6f08848.png)|![jsp](https://user-images.githubusercontent.com/38531104/43717756-7b37473c-99c3-11e8-9a1b-577cd477b3e7.png)
 
 ## 4. 포트폴리오
+- ### PC cafe system (pos_pc, admin_pc, user_pc)
+
 ## 5. 마치며

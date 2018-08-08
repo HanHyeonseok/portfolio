@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="idCheck" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="idcheck"/>
+			<item value="bt_order"/>
+			<item value="name"/>
+			<item value="username"/>
+			<item value="lb_TIME_1"/>
+			<item value="lb_TIME_2"/>
+			<item value="lb_TIME_3"/>
+			<item value="lb_TIME_4"/>
+			<item value="lb_TIME_5"/>
+			<item value="lb_TIME_6"/>
+			<item value="lb_TIME_7"/>
+			<item value="lb_TIME_8"/>
+			<item value="lb_TIME_9"/>
+			<item value="lb_TIME_10"/>
+			<item value="lb_TIME_"/>
+		</list>
+		<list key="replacehistory">
+			<item value="lb_TIME[0]"/>
+			<item value="lb_TIME[1]"/>
+			<item value="lb_TIME[2]"/>
+			<item value="lb_TIME[3]"/>
+			<item value="lb_TIME[4]"/>
+			<item value="lb_TIME[5]"/>
+			<item value="lb_TIME[6]"/>
+			<item value="lb_TIME[7]"/>
+			<item value="lb_TIME[8]"/>
+			<item value="lb_TIME[9]"/>
+			<item value="lb_ID[0]"/>
+			<item value="lb_ID[1]"/>
+			<item value="lb_ID[2]"/>
+			<item value="lb_ID[3]"/>
+			<item value="lb_ID[4]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="288" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="391" key="DIALOG_HEIGHT"/>
+		<item value="1312" key="DIALOG_X_ORIGIN"/>
+		<item value="253" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
