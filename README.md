@@ -1,4 +1,4 @@
-﻿# 알아야 할게 많아도 너~무 많아..
+# 알아야 할게 많아도 너~무 많아..
 알아야 할 것이 너~무 많은.. 그런 IT의 매력에 반해버린 "**코딩변태**" ToyCode입니다.  
 위와같은 이유로 ToyCode라는 닉네임을 정하게 되었고 저에게 소중한 이름입니다! 
 
@@ -17,7 +17,7 @@
  - e-mail : <gksgustjr727@naver.com>
  - blog : [http://toycode.tistory.com](http://toycode.tistory.com/)
  - github : [https://github.com/HanHyeonseok](https://github.com/HanHyeonseok)
- - portfolio : 준비중
+ - slideshare : [https://www.slideshare.net/HyeonseokHan1](https://www.slideshare.net/HyeonseokHan1)
 
 ## 2. 토이코드는 뭐지?
 
@@ -44,5 +44,8 @@ Major Languages|ㅤ|ㅤ
 
 ## 4. 포트폴리오
 - ### PC cafe system (pos_pc, admin_pc, user_pc)
+![default](https://user-images.githubusercontent.com/38531104/43839240-91f992c2-9b58-11e8-8e8a-8b3e1e41721f.PNG)  
+* 개발기술서  : [https://www.slideshare.net/HyeonseokHan1/pc-cafe-system-109069632](https://www.slideshare.net/HyeonseokHan1/pc-cafe-system-109069632)
+* 소스코드 : [https://github.com/HanHyeonseok/portfolio/tree/master/pc_cafe_system](https://github.com/HanHyeonseok/portfolio/tree/master/pc_cafe_system)  
 
 ## 5. 마치며
