@@ -34,17 +34,26 @@ Major Languages|ㅤ|ㅤ
 ---|---|---
 ![java](https://user-images.githubusercontent.com/38531104/43716471-2f9d9e38-99bf-11e8-9407-314dfc2f8702.png)|ㅤ|ㅤ
  **Backend Skills**|ㅤ|ㅤ
-![default](https://user-images.githubusercontent.com/38531104/43716482-30797e3a-99bf-11e8-997c-055b414d2993.jpg)|![images](https://user-images.githubusercontent.com/38531104/43716470-2f712ff6-99bf-11e8-9bf3-c3466dcb19cf.png)|ㅤ
+![default](https://user-images.githubusercontent.com/38531104/43716482-30797e3a-99bf-11e8-997c-055b414d2993.jpg)|![images](https://user-images.githubusercontent.com/38531104/43716470-2f712ff6-99bf-11e8-9bf3-c3466dcb19cf.png)|![jsp](https://user-images.githubusercontent.com/38531104/43717756-7b37473c-99c3-11e8-9a1b-577cd477b3e7.png)
 **Frontend Skills**|ㅤ|ㅤ
 ![javascript](https://user-images.githubusercontent.com/38531104/43716473-2fcb2b32-99bf-11e8-874d-4bdb840d0cf7.png)|![css3](https://user-images.githubusercontent.com/38531104/43716467-2f12a47c-99bf-11e8-8c06-1a3330813716.png)|![html5](https://user-images.githubusercontent.com/38531104/43716469-2f3f6ade-99bf-11e8-95f6-06e31f088e6d.png)
-![jquery](https://user-images.githubusercontent.com/38531104/43716475-2ff84130-99bf-11e8-9e85-4471e6f67f72.png)|![markdown](https://user-images.githubusercontent.com/38531104/43716480-30507422-99bf-11e8-8fce-59de7af5c4e5.png)|ㅤ
+![jquery](https://user-images.githubusercontent.com/38531104/43716475-2ff84130-99bf-11e8-9e85-4471e6f67f72.png)|![markdown](https://user-images.githubusercontent.com/38531104/43716480-30507422-99bf-11e8-8fce-59de7af5c4e5.png)|![json](https://user-images.githubusercontent.com/38531104/45594483-4c5b6c80-b9d6-11e8-9976-5a06da5f25da.png)
+![ajax](https://user-images.githubusercontent.com/38531104/45594503-b411b780-b9d6-11e8-97c7-9b8937f04a74.png)|![bootstrap](https://user-images.githubusercontent.com/38531104/45594504-b411b780-b9d6-11e8-8be6-b85fa66d562a.png)|![nodejs2](https://user-images.githubusercontent.com/38531104/43717757-7b5f38a0-99c3-11e8-8b12-82acd6f08848.png)
 **Studying Languages**|ㅤ|ㅤ
-![spring](https://user-images.githubusercontent.com/38531104/43717758-7b93d416-99c3-11e8-93dd-6f3034f585aa.png)|![nodejs2](https://user-images.githubusercontent.com/38531104/43717757-7b5f38a0-99c3-11e8-8b12-82acd6f08848.png)|![jsp](https://user-images.githubusercontent.com/38531104/43717756-7b37473c-99c3-11e8-9a1b-577cd477b3e7.png)
+![spring](https://user-images.githubusercontent.com/38531104/43717758-7b93d416-99c3-11e8-93dd-6f3034f585aa.png)|![reactjs](https://user-images.githubusercontent.com/38531104/45594505-b411b780-b9d6-11e8-801f-dc57a67ecec4.png)
+**Version Control System**|ㅤ|ㅤ
+![github](https://user-images.githubusercontent.com/38531104/45594449-c17a7200-b9d5-11e8-9f00-842642d315ac.png)|![sourcetree](https://user-images.githubusercontent.com/38531104/45594460-fbe40f00-b9d5-11e8-8dcb-810f9fcaf954.jpg)
+|
 
 ## 4. 포트폴리오
-- ### PC cafe system (pos_pc, admin_pc, user_pc)
-![default](https://user-images.githubusercontent.com/38531104/43839240-91f992c2-9b58-11e8-8e8a-8b3e1e41721f.PNG)  
+ ### PC cafe system (pos_pc, admin_pc, user_pc)
+![default](https://user-images.githubusercontent.com/38531104/45594309-82e3b800-b9d3-11e8-9e44-cc17ec627dca.PNG)  
 * 개발기술서  : [https://www.slideshare.net/HyeonseokHan1/pc-cafe-system-109069632](https://www.slideshare.net/HyeonseokHan1/pc-cafe-system-109069632)
-* 소스코드 : [https://github.com/HanHyeonseok/portfolio/tree/master/pc_cafe_system](https://github.com/HanHyeonseok/portfolio/tree/master/pc_cafe_system)  
+* 소스코드 : [https://github.com/HanHyeonseok/PC_Cafe_System](https://github.com/HanHyeonseok/PC_Cafe_System)  
+
+ ### WEB Micro Blog Service
+![default](https://user-images.githubusercontent.com/38531104/45594297-53cd4680-b9d3-11e8-94ba-7df3e7eb2f25.PNG)  
+* 개발기술서  : [https://www.slideshare.net/HyeonseokHan1/web-micro-blog-114822165](https://www.slideshare.net/HyeonseokHan1/web-micro-blog-114822165)
+* 소스코드 : [https://github.com/HanHyeonseok/Micro_blog_WebProject/tree/master/KH](https://github.com/HanHyeonseok/Micro_blog_WebProject/tree/master/KH) 
 
 ## 5. 마치며
