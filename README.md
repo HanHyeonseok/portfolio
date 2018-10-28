@@ -7,7 +7,8 @@
 
 ## 1. 나를 소개해요
 
-<img src="https://user-images.githubusercontent.com/38531104/47612761-7f5c4a00-dac4-11e8-94fe-89005e9a65b6.jpg" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/38531104/47612761-7f5c4a00-dac4-11e8-94fe-89005e9a65b6.jpg" width="300" height="400">  
+
 ### 한현석( Hyeon seok Han )  
 
  - Phone : 010-7646-5503
