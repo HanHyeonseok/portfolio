@@ -1,34 +1,33 @@
-# 알아야 할게 많아도 너~무 많아..
-알아야 할 것이 너~무 많은.. 그런 IT의 매력에 반해버린 "**코딩변태**" ToyCode입니다.
+## [웹 개발] 한현석_포트폴리오
 
-## Index
 1. [나를 소개해요](#1-나를-소개해요)
-2. [토이코드는 뭐지?](#2-토이코드는-뭐지)
-3. [뭘 할 수 있죠?](#3-뭘-할-수-있죠)
-4. [포트폴리오](#4-포트폴리오)
-5. [마치며](#5-마치며) 
+2. [어떠한 것을 알고있나요](#2-어떠한-것을-알고있나요)
+3. [가장 자신있는 기술](#3-가장-자신있는-기술)
+4. [참여프로젝트](#4-참여프로젝트)
 
 ## 1. 나를 소개해요
 
-<img src="https://user-images.githubusercontent.com/38531104/43686622-e9dff4f6-9903-11e8-87c5-511a4d4aec23.jpg" width="300" height="400">
-
+<img src="https://user-images.githubusercontent.com/38531104/47612761-7f5c4a00-dac4-11e8-94fe-89005e9a65b6.jpg" width="300" height="400">
 ### 한현석( Hyeon seok Han )
+ - Phone : 010-7646-5503
  - e-mail : <gksgustjr727@naver.com>
  - blog : [http://toycode.tistory.com](http://toycode.tistory.com/)
  - github : [https://github.com/HanHyeonseok](https://github.com/HanHyeonseok)
- - slideshare : [https://www.slideshare.net/HyeonseokHan1](https://www.slideshare.net/HyeonseokHan1)
+ - slideshare : [https://www.slideshare.net/HyeonseokHan1](https://www.slideshare.net/HyeonseokHan1)  
 
-## 2. 토이코드는 뭐지?
+***
 
-먼저, "ToyCode"는 저의 개인블로그의 야심찬 닉네임입니다.  
+안녕하십니까. 웹 개발직무 지원자 "한현석"입니다.    
 
-개인블로그를 처음 시작하며 먼저 고민한 것이 바로 닉네임을 정하는 것이였는데 보다 의미있는 닉네임을 사용하여 블로그에 애착을 가지고 싶었습니다. 마치, 저의 프로그래밍입문에 가장 큰 도움을 주신 생활코딩의 "이고잉님"처럼 말이죠.  
+대학 전공을 살려 외식산업에서 일을 하였지만, 목표하였던 꿈을 이루기엔 현실적인 어려움이 있어 진로를 고민하게 되었고 평소 즐겨보던 TED 강연을 듣던 중 IT 산업혁명을 주제로 한 영상을 보고 웹 개발 분야에 크게 관심을 두게 되었습니다.  
+  
+웹 개발자가 되기 위해 비전공자인 저로선 많은 어려움을 해결해야 했지만, 과거 요리대회를 준비하며 위기를 극복한 경험이 있었기 때문에 새로운 도전 또한 극복할 수 있다는 확신이 들었습니다. 그래서 부족한 전문지식과 전공소양을 해결하고자 NCS기반의 교육과정에 입문하게 되었고 교육과정 동안 직무기술과 지식을 익혀 다양한 프로젝트에 참여한 경험이 있습니다.    
+  
+직업의 **"변화"**, 절실한 **"노력"**, 위기를 극복한 **"경험"**, 직무에 대한 **"지식"**  
+  
+위와 같은 끊임 없는 노력의 에너지를 발판 삼아 귀사와 함께할 수 있다면, 귀사의 일원이 되어 힘들고 어려운 상황에 직면하더라도 포기하지 않는 경험의 밑바탕이 될 것이라 확신합니다.
 
-ToyCode는 직역 그대로 "장난감코드"가 맞습니다. 좀더 구체적으로 풀어보면 장난감중의 레고와 가깝습니다. JAVA의 객체를 배울때 프로그래밍과 퍼즐은 많은 공통점이 있었습니다. 조각으로 나뉘어진 여러 개체들은 어떻게 모양을 만드냐에 따라 훌륭한 결과물을 보여주기 때문이죠. 때로는 필요한 부품이 없을 경우 필요한 모양대로 직접 만들어 사용하기도 하고 부품을 구하여 만들 수도 있죠!!  
-
-하지만, 새로운 부품을 만들기 위해서는 알아야 할게 너무 많았습니다. 때론 머리가 터져버릴꺼 같은 느낌도 받았습니다. 하지만 그러한 문제는 너무 간단히 해결 할 수 있었습니다. 조금은 천천히 흥미를 잃지 않게 이해 할 수 있는 부분부터 다시 공부를 해서 필요한 부품을 만들어내었을때 힘들었던 시간을 보상해줍니다. &#128525;
-
-## 3. 뭘 할 수 있죠?
+## 2. 어떠한 것을 알고있나요
 
 Major Languages|ㅤ|ㅤ
 ---|---|---
@@ -45,7 +44,19 @@ Major Languages|ㅤ|ㅤ
 ![github](https://user-images.githubusercontent.com/38531104/45594449-c17a7200-b9d5-11e8-9f00-842642d315ac.png)|![sourcetree](https://user-images.githubusercontent.com/38531104/45594460-fbe40f00-b9d5-11e8-8dcb-810f9fcaf954.jpg)
 |
 
-## 4. 포트폴리오
+## 3. 가장 자신있는 기술
+[협업 프로젝트에 날개를 달다, Spring Framework]
+
+Final-Project 주제로 “유아용품 대여 서비스” 웹 플랫폼을 개발할 때 Spring Framework, MVC 2 디자인패턴을 사용하여 구현한 경험이 있습니다. 
+
+ 스프링은 자바 엔터프라이즈 개발을 편하게 해주는 오픈소스로 경량급 애플리케이션 프레임워크라고 알고 있습니다. 또한, 객체지향의 설계기법을 적용할 수 있는 구조를 돕기 위한 DI 같은 기술적용에 쉽습니다.
+ 이전 Semi-Project를 개발할 때 세션 만료 처리를 해결하지 못하여 아쉬운 경험이 있습니다. 그래서 Final-Project에서는 공통프로세서의 처리를 하기 위해 Spring Framework에서 AOP와 Interceptor의 기술을 적용하여 문제를 해결하고자 노력했습니다. AOP와 Interceptor기술은 공통업무 프로그램의 흐름에 따른 호출되는 시점의 차이가 있었으며 서블릿에서 데이터를 가로채는 Interceptor기술을 Final-Project에 적용하여 문제를 해결하였습니다.
+
+ 프로젝트를 끝냈을 때는 Spring의 이해도가 깊어졌으며 다양한 라이브러리의 사용법과 기능을 정리하던 습관은 또 다른 문제 해결에 도움이 될 것이라 생각합니다. 이러한 저의 경험과 노력은 귀사에서 진행하는 프로젝트의 프레임 구조와 기능을 습득하는 데 큰 도움이 될 것으로 확신합니다.
+
+
+
+## 4. 참여프로젝트
  ### PC cafe system (pos_pc, admin_pc, user_pc)
 ![default](https://user-images.githubusercontent.com/38531104/45594309-82e3b800-b9d3-11e8-9e44-cc17ec627dca.PNG)  
 * 개발기술서  : [https://www.slideshare.net/HyeonseokHan1/pc-cafe-system-109069632](https://www.slideshare.net/HyeonseokHan1/pc-cafe-system-109069632)
@@ -55,5 +66,3 @@ Major Languages|ㅤ|ㅤ
 ![default](https://user-images.githubusercontent.com/38531104/45594297-53cd4680-b9d3-11e8-94ba-7df3e7eb2f25.PNG)  
 * 개발기술서  : [https://www.slideshare.net/HyeonseokHan1/web-micro-blog-114822165](https://www.slideshare.net/HyeonseokHan1/web-micro-blog-114822165)
 * 소스코드 : [https://github.com/HanHyeonseok/Micro_blog_WebProject/tree/master/KH](https://github.com/HanHyeonseok/Micro_blog_WebProject/tree/master/KH) 
-
-## 5. 마치며
